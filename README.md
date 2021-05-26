@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on **Gst Finder - Python**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Django/Flask**
 
-- 💬 Ask me about **Python / Node Js**
+- 💬 Ask me about **Python **
 
 - 📫 How to reach me **vikassupadhyaya@gmail.com**
