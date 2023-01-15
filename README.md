@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **Django / Flask**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python / PHP**
 
 - 📫 How to reach me **vikassupadhyaya@gmail.com**
